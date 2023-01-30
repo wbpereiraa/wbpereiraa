@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, eu sou o William Pereira 👋
 
-<!--
-**wbpereiraa/wbpereiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho com Back-end
+- 🌱 Estudando Python
+- 💬 Contate-me através do E-mail: wb.pereiraa@gmail.com
+- 😄 Pronouns: ele/dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Wbpereiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=wbpereiraa&show_icons=true&theme=dracula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbpereiraa&layout=compact&theme=dracula)](https://github.com/wbpereiraa/github-readme-stats)
+
+<div style="display: inline_block"><br>
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
