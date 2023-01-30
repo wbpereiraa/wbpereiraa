@@ -1,8 +1,8 @@
 ### Olá, eu sou o William Pereira 👋
 
 
-- 🔭 Atualmente trabalho com Back-end
-- 🌱 Estudando Python
+- 🔭 Atualmente estudando para ser um programador Back-end
+- 🌱 Estudando Python, Django, Banco de dados(MySQL)
 - 💬 Contate-me através do E-mail: wb.pereiraa@gmail.com
 - 😄 Pronouns: ele/dele
 
