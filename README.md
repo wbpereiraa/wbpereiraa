@@ -8,6 +8,7 @@
 
 ![Wbpereiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=wbpereiraa&show_icons=true&theme=dracula) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbpereiraa&layout=compact&theme=dracula)](https://github.com/wbpereiraa/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbpereiraa_progress=true)
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Js" height="30" width="40" 
