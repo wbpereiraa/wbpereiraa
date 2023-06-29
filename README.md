@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estudando para ser um programador Back-end
-- 🌱 Estudando Python, Banco de dados(MySQL, NoSQL), Java
+- 🌱 Estudando Python, Banco de dados(MySQL, MongoDB, NoSQL), Java
 - 💬 Contate-me através do E-mail: wb.pereiraa@gmail.com
 - 😄 Pronouns: ele/dele
 
