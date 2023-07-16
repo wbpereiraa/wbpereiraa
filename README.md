@@ -1,7 +1,7 @@
 ### Olá, eu sou o William Pereira 👋
 
 
-- 🔭 Atualmente estudando para ser um programador Back-end
+- 🔭 Programador Back-end
 - 🌱 Estudando Python, Banco de dados(MySQL, MongoDB, NoSQL), Java
 - 💬 Contate-me através do E-mail: wb.pereiraa@gmail.com
 - 😄 Pronouns: ele/dele
