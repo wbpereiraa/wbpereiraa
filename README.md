@@ -6,8 +6,8 @@
 - 💬 Contate-me através do E-mail: wb.pereiraa@gmail.com
 - 😄 Pronouns: ele/dele
 
-![Wbpereiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=wbpereiraa&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbpereiraa&show_icons=true&theme=dracula)](https://github.com/wbpereiraa/github-readme-stats)
+![Wbpereiraa GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wbpereiraa&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wbpereiraa&show_icons=true&theme=dracula)](https://github.com/wbpereiraa/github-readme-stats)
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Will-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
