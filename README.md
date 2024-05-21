@@ -2,7 +2,7 @@
 
 
 - 🔭 Programador Back-end
-- 🌱 Estudando Java, Python, Banco de dados(MySQL, MongoDB, NoSQL), Spring Boot
+- 🌱 Estudando Java, Python, Banco de dados(MySQL, MongoDB), Spring Boot
 - 💬 Contate-me através do E-mail: wb.pereiraa@gmail.com
 - 😄 Pronouns: ele/dele
 
