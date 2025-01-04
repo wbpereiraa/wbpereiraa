@@ -2,16 +2,20 @@
 
 
 - 🔭 Programador Back-end
-- 🌱 Estudando Java, Python, Banco de dados(MySQL, MongoDB), Spring Boot
+- 🌱 Java, Python, JavaScript, TypeScript, Banco de dados(MySQL, PostgreSQL), Spring Boot
 - 💬 Contate-me através do E-mail: wb.pereiraa@gmail.com
 - 😄 Pronouns: ele/dele
 
 ![Wbpereiraa GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wbpereiraa&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wbpereiraa&show_icons=true&theme=dracula)](https://github.com/wbpereiraa/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wbpereiraa&hide_progress=true&show_icons=true&theme=dracula)](https://github.com/wbpereiraa/github-readme-stats)
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Will-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Will-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
+   <img align="center" alt="Will-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+   <img align="center" alt="Will-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img align="center" alt="Will-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+   <img align="center" alt="Will-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   <img align="center" alt="Will-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </div>
 
  ##
