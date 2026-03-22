@@ -7,6 +7,7 @@
 - 😄 Pronouns: ele/dele
 
 ![Wbpereiraa GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wbpereiraa&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbpereiraa)](https://github.com/wbpereiraa/github-readme-stats)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wbpereiraa&hide_progress=true&show_icons=true&theme=dracula)](https://github.com/wbpereiraa/github-readme-stats)
 
 <div style="display: inline_block"><br>
